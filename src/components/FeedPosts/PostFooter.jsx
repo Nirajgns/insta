@@ -43,7 +43,7 @@ const PostFooter = () => {
         {likes} likes
       </Text>
       <Text fontSize="small" fontWeight={700}>
-        Swastika.Thapa256{""}
+        User.name1999{""}
         <Text as="span" fontWeight={400}>
           {" "}
           Feeling good...

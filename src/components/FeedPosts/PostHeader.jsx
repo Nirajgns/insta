@@ -9,7 +9,7 @@ const PostHeader = () => {
       <Flex gap={2} alignItems={"center"}>
         <Avatar src="/img1.png" alt="profile image" size={"sm"} />
         <Flex gap={2} fontSize={12} fontWeight={"bold"} cursor={"pointer"}>
-          Swosti.Thapa256
+          User.name1999
           <Box color={"gray.500"}>• 1w</Box>
         </Flex>
       </Flex>
