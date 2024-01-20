@@ -23,17 +23,17 @@ const SuggestedUsers = () => {
       </Flex>
 
       <SuggestedUser
-        name="Dan Abrahmov"
+        name="Some user1"
         followers={1000}
         avatar="https://bit.ly/dan-abramov"
       />
       <SuggestedUser
-        name="Ryan florence"
+        name="Some user2"
         followers={999}
         avatar="https://bit.ly/ryan-florence"
       />
       <SuggestedUser
-        name="Christian Nwamba"
+        name="Some user 3"
         followers={555}
         avatar="https://bit.ly/code-beast"
       />

@@ -13,7 +13,6 @@ import {
   NotificationsLogo,
   UnlikeLogo,
 } from "../../assets/constants";
-
 const PostFooter = ({ username }) => {
   const [liked, setLiked] = useState(false);
   const [likes, setLikes] = useState(1000);
