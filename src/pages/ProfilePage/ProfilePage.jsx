@@ -23,8 +23,8 @@ const ProfilePage = () => {
         borderTop={"1px solid"}
         borderColor={"whiteAlpha.300"}>
         <ProfileTabs />
-        <ProfilePosts />
       </Flex>
+      <ProfilePosts />
     </Container>
   );
 };
